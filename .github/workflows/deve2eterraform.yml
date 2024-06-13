@@ -3,7 +3,7 @@ name: 'Terraform Azure Deployment'
 on:
   push:
     branches:
-      - Terraform-AVDALZ0updates
+      - Terraform-AVDALZ-updates
 
 jobs:
   build:
